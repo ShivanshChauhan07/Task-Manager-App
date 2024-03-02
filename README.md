@@ -23,7 +23,7 @@ Currently, two official plugins are available:
 
 ## Screenshots
 
-![App Screenshot](https://drive.google.com/file/d/1K2hhVAW6w8pj6mLgQXVU3L7M28WKH4Uj/view?usp=sharing)
+![App Screenshot](https://github.com/ShivanshChauhan07/Task-Manager-App/blob/main/task_manager/src/assets/Task%20Manager%20App%20ScreenShot.png)
 
 
 ## Features
