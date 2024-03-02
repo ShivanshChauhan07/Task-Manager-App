@@ -18,7 +18,7 @@ Currently, two official plugins are available:
 @vitejs/plugin-react uses Babel for Fast Refresh.<br/>
 @vitejs/plugin-react-swc uses SWC for Fast Refresh
     
-![Logo](https://github.com/rohitmauryax/NotesClub/blob/main/src/assets/logo.jpg)
+![Logo](https://github.com/ShivanshChauhan07/Task-Manager-App/blob/main/task_manager/public/favicon-32x32.png)
 
 
 ## Screenshots
